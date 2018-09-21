@@ -1,0 +1,26 @@
+{
+  "name": "precisionweather",
+  "version": "1.0.0",
+  "main": "darksky.js",
+  "dependencies": {
+    "cron": "^1.4.1",
+    "dotenv": "^6.0.0",
+    "node-cron": "^2.0.1",
+    "node-fetch": "^2.2.0",
+    "twilio": "^3.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlee201/PrecisionWeather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanlee201/PrecisionWeather/issues"
+  },
+  "homepage": "https://github.com/ryanlee201/PrecisionWeather#readme"
+}
